@@ -1,0 +1,27 @@
+_repo: The-Nature-of-Goodness_6101
+creator:
+  author:
+    agent_name: Palmer, George Herbert
+    birthdate: 1842
+    deathdate: 1933
+    gutenberg_agent_id: '1948'
+    url: http://www.gutenberg.org/2009/agents/1948
+    wikipedia: http://en.wikipedia.org/wiki/George_Herbert_Palmer
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Good and evil'
+- !lcc 'BJ'
+- !lcsh 'Ethics'
+tableOfContents: The double aspect of goodness -- Misconceptions of goodness -- Self-consciousness
+  -- Self-direction -- Self-development -- Self-sacrifice -- Nature and spirit --
+  The three stages of goodness.
+title: The Nature of Goodness
+url: http://www.gutenberg.org/ebooks/6101
