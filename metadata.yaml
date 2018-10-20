@@ -1,5 +1,5 @@
 _repo: The-Nature-of-Goodness_6101
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ subjects:
 - !lcsh 'Good and evil'
 - !lcc 'BJ'
 - !lcsh 'Ethics'
+- GITenberg
 tableOfContents: The double aspect of goodness -- Misconceptions of goodness -- Self-consciousness
   -- Self-direction -- Self-development -- Self-sacrifice -- Nature and spirit --
   The three stages of goodness.
